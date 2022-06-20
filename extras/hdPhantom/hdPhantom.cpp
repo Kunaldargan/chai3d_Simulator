@@ -62,9 +62,11 @@ void    CloseHandle(HANDLE e)                    { pthread_mutex_destroy(&(e->m)
 #include "HD/hd.h"
 #include <HDU/hduVector.h>
 #include <HDU/hduError.h>
+#include <iostream>
 //---------------------------------------------------------------------------
 #include "chai3d.h"
 using namespace chai3d;
+using namespace std;
 //---------------------------------------------------------------------------
 
 //=============================================================================
@@ -342,7 +344,11 @@ int __FNCALL hdPhantomGetNumDevices()
 */
 //==========================================================================
 int __FNCALL hdPhantomOpen(const int a_deviceID)
-{
+{   
+    cout << "a_deviceID:" << a_deviceID << endl;
+    cout << "numPhantomDevices:" << numPhantomDevices << endl;
+
+
     // check id
     if ((a_deviceID < 0) || (a_deviceID >= numPhantomDevices)) { return (-1); }
 
@@ -355,6 +361,9 @@ int __FNCALL hdPhantomOpen(const int a_deviceID)
     // enable device
     phantomDevices[a_deviceID].enabled = true;
 
+    cout << " phantomDevices[a_deviceID].enabled : " <<  phantomDevices[a_deviceID].enabled << endl;
+
+    cout << "0 if success, otherwise -1: "<<phantomDevices[a_deviceID].handle << endl;
     // return result
     return (phantomDevices[a_deviceID].handle);
 }
@@ -405,7 +414,7 @@ int __FNCALL hdPhantomGetPosition(const int a_deviceID,
                                   double *a_posX,
                                   double *a_posY,
                                   double *a_posZ)
-{
+{   
     // check id
     if ((a_deviceID < 0) || (a_deviceID >= numPhantomDevices)) { return (-1); }
 

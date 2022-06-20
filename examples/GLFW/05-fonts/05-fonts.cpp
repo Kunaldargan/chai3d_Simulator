@@ -638,10 +638,10 @@ void updateGraphics(void)
     // wait until all GL commands are completed
     glFinish();
 
-    // check for any OpenGL errors
-    GLenum err;
-    err = glGetError();
-    if (err != GL_NO_ERROR) cout << "Error: " << gluErrorString(err) << endl;
+    // // check for any OpenGL errors
+    // GLenum err;
+    // err = glGetError();
+    // if (err != GL_NO_ERROR) cout << "Error: " << gluErrorString(err) << endl;
 }
 
 //------------------------------------------------------------------------------

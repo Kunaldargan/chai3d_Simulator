@@ -756,8 +756,8 @@ void updateGraphics(void)
     glFinish();
 
     // check for any OpenGL errors
-    GLenum err = glGetError();
-    if (err != GL_NO_ERROR) cout << "Error: " << gluErrorString(err) << endl;
+    // GLenum err = glGetError();
+    // if (err != GL_NO_ERROR) cout << "Error: " << gluErrorString(err) << endl;
 }
 
 //------------------------------------------------------------------------------

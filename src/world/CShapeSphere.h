@@ -169,7 +169,7 @@ protected:
     double m_radius;
 
     //! rendering object.
-    GLUquadricObj *m_quadric;
+    //GLUquadricObj *m_quadric;
 };
 
 //------------------------------------------------------------------------------

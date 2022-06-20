@@ -107,7 +107,7 @@
 
 // OPENGL SUPPORT
 // Enable or disable OpenGL and GLEW libraries.
-#define C_USE_OPENGL
+// #define C_USE_OPENGL
 
 // EIGEN SUPPORT
 // Enable or disable external Eigen math library.
@@ -328,7 +328,7 @@ typedef double                      GLclampd;
 #define GL_REPEAT                   0x2901
 #define GL_LIGHT0                   0x4000
 #define GL_VERTEX_ARRAY             0x8074
-#define GLUquadricObj               void
+// #define GLUquadricObj               void
     
 #define GL_CLAMP_TO_EDGE            0x812F
 #define GL_NEAREST                  0x2600

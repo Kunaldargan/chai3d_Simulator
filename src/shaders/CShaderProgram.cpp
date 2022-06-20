@@ -68,8 +68,12 @@ cShaderProgram::cShaderProgram()
     m_shaderCount = 0;
 
     m_geometryShaderAttached = false;
+
+#ifdef C_USE_OPENGL
     m_geometryInputType = GL_TRIANGLES;
     m_geometryOutputType = GL_TRIANGLE_STRIP;
+#endif
+
     m_geometryVerticesOut = 24;
 }
 
@@ -92,8 +96,12 @@ cShaderProgram::cShaderProgram(const std::string& a_vertexShader, const std::str
     m_shaderCount = 0;
 
     m_geometryShaderAttached = false;
+    
+#ifdef C_USE_OPENGL
     m_geometryInputType = GL_TRIANGLES;
     m_geometryOutputType = GL_TRIANGLE_STRIP;
+#endif
+
     m_geometryVerticesOut = 24;
 
     // create vertex shader

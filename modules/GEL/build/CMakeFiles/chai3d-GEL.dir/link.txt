@@ -1,0 +1,2 @@
+/usr/bin/ar qc libchai3d-GEL.a CMakeFiles/chai3d-GEL.dir/src/CGELLinearSpring.cpp.o CMakeFiles/chai3d-GEL.dir/src/CGELMassParticle.cpp.o CMakeFiles/chai3d-GEL.dir/src/CGELMesh.cpp.o CMakeFiles/chai3d-GEL.dir/src/CGELSkeletonLink.cpp.o CMakeFiles/chai3d-GEL.dir/src/CGELSkeletonNode.cpp.o CMakeFiles/chai3d-GEL.dir/src/CGELVertex.cpp.o CMakeFiles/chai3d-GEL.dir/src/CGELWorld.cpp.o
+/usr/bin/ranlib libchai3d-GEL.a

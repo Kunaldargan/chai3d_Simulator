@@ -1,0 +1,9886 @@
+
+-----------------------------------
+CHAI3D
+Demo: 01-mydevice
+Copyright 2003-2016
+-----------------------------------
+
+
+Keyboard Options:
+
+[1] - Enable/Disable potential field
+[2] - Enable/Disable damping
+[f] - Enable/Disable full screen mode
+[m] - Enable/Disable vertical mirroring
+[q] - Exit application
+
+
+Device number : 1
+m_specifications.m_modelName : PHANTOM Omni
+m_deviceAvailable :  1
+if system is already opened : 0
+try to open the device0a_deviceID:0
+numPhantomDevices:1
+ phantomDevices[a_deviceID].enabled : 1
+0
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1
+
+position X-0.0881142
+position Y0
+position Z-0.06551070
+enabled :1

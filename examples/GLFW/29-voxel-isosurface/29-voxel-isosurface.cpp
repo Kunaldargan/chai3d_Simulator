@@ -45,6 +45,7 @@
 //------------------------------------------------------------------------------
 #include "chai3d.h"
 //------------------------------------------------------------------------------
+#include "GL/glew.h" // Important - this header must come before glfw3 header
 #include <GLFW/glfw3.h>
 //------------------------------------------------------------------------------
 using namespace chai3d;
@@ -788,8 +789,8 @@ void updateGraphics(void)
     glFinish();
 
     // check for any OpenGL errors
-    GLenum err = glGetError();
-    if (err != GL_NO_ERROR) cout << "Error: " << gluErrorString(err) << endl;
+    // GLenum err = glGetError();
+    // if (err != GL_NO_ERROR) cout << "Error: " << gluErrorString(err) << endl;
 }
 
 //------------------------------------------------------------------------------

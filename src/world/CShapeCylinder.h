@@ -189,7 +189,7 @@ protected:
     double m_height;
 
     //! rendering object.
-    GLUquadricObj *m_quadric;
+    //GLUquadricObj *m_quadric;
 };
 
 //------------------------------------------------------------------------------
